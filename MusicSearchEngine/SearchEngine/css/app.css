@@ -1,0 +1,16 @@
+html {
+  background:rgb(253, 244, 244);
+  font: 16px Arial;
+}
+
+#app > div > h1{
+  margin: 0 auto;
+  position: relative;
+  left: 35%;
+}
+
+#app > div > div > div{
+  /* //margin: 0 auto; */
+  position: relative;
+  left: 2%;
+}

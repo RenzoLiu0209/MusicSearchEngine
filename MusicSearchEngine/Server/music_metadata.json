@@ -1,0 +1,711 @@
+{
+    "music": [
+        {
+            "album": "Almost Alice (Music Inspired By the Motion Picture)", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2010", 
+            "title": "Alice "
+        }, 
+        {
+            "album": "The Angus Drive", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2003", 
+            "title": "Complicated"
+        }, 
+        {
+            "album": "Now That's What I Call Music! 25", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2007", 
+            "title": "Girlfriend"
+        }, 
+        {
+            "album": "Now That's What I Call Music! 47", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2013", 
+            "title": "Here's To Never Growing Up"
+        }, 
+        {
+            "album": "Let Go (B-sides Tracks)", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2002", 
+            "title": "I Don't Give (B-sides Version)"
+        }, 
+        {
+            "album": "Control Room (Live)", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2008", 
+            "title": "Innocence  (live)"
+        }, 
+        {
+            "album": "My Happy Ending", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2004", 
+            "title": "My Happy Ending (LP version)"
+        }, 
+        {
+            "album": "The Angus Drive", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2003", 
+            "title": "Sk8er Boi"
+        }, 
+        {
+            "album": "BBC Radio 1's Live Lounge, Volume 6", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2011", 
+            "title": "Tik Tok (Originally By Ke$Ha)"
+        }, 
+        {
+            "album": "What The Hell", 
+            "genre": "pop-rock", 
+            "artist": "Avril Lavigne", 
+            "year": "2011", 
+            "title": "What The Hell"
+        }, 
+        {
+            "album": "Countdown", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2011", 
+            "title": "Countdown"
+        }, 
+        {
+            "album": "Fifty Shades of Grey (Original Motion Picture Soundtrack)", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2015", 
+            "title": "Crazy In Love (2014 Remix)"
+        }, 
+        {
+            "album": "Die With You", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2017", 
+            "title": "Die With You"
+        }, 
+        {
+            "album": "Heat", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2014", 
+            "title": "Fever"
+        }, 
+        {
+            "album": "Halo", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2008", 
+            "title": "Halo"
+        }, 
+        {
+            "album": "I Am...Sasha Fierce", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2008", 
+            "title": "If I Were A Boy"
+        }, 
+        {
+            "album": "2008 Grammy Nominees", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2008", 
+            "title": "Irreplaceable"
+        }, 
+        {
+            "album": "4", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2011", 
+            "title": "Love On Top"
+        }, 
+        {
+            "album": "I Am...Sasha Fierce", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2008", 
+            "title": "Single Ladies (Put A Ring On It)"
+        }, 
+        {
+            "album": "I Am...Sasha Fierce", 
+            "genre": "hiphop", 
+            "artist": "Beyonce", 
+            "year": "2008", 
+            "title": "Sweet Dreams"
+        }, 
+        {
+            "album": "Pepsi Sounds Of The 90s Generation", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2008", 
+            "title": "Baby One More Time"
+        }, 
+        {
+            "album": "Everytime", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2003", 
+            "title": "Everytime"
+        }, 
+        {
+            "album": "Now That's What I Call Music! 40", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2011", 
+            "title": "I Wanna Go "
+        }, 
+        {
+            "album": "Lucky", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2000", 
+            "title": "Lucky"
+        }, 
+        {
+            "album": "Me Against the Music", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2003", 
+            "title": "Me against the Music"
+        }, 
+        {
+            "album": "Britney Jean", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2013", 
+            "title": "Perfume"
+        }, 
+        {
+            "album": "Baby One More Time", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "1998", 
+            "title": "Sometimes"
+        }, 
+        {
+            "album": "Till The World Ends", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2011", 
+            "title": "Till The World Ends"
+        }, 
+        {
+            "album": "The Singles Collection", 
+            "genre": "electropop", 
+            "artist": "Britney Spears", 
+            "year": "2009", 
+            "title": "Toxic"
+        }, 
+        {
+            "album": "Pretty Girls", 
+            "genre": "electropop", 
+            "artist": "Britney Spears;Iggy Azalea", 
+            "year": "2015", 
+            "title": "Pretty Girls"
+        }, 
+        {
+            "album": "NOW That's What I Call Music, Vol. 39", 
+            "genre": "hiphop", 
+            "artist": "Jessie J;B.o.B", 
+            "year": "2011", 
+            "title": "Price Tag"
+        }, 
+        {
+            "album": "Believe", 
+            "genre": "pop", 
+            "artist": "Justin Bieber", 
+            "year": "2012", 
+            "title": "Boyfriend"
+        }, 
+        {
+            "album": "Purpose", 
+            "genre": "pop", 
+            "artist": "Justin Bieber", 
+            "year": "2015", 
+            "title": "Get Used To It"
+        }, 
+        {
+            "album": "Latin Girl", 
+            "genre": "pop", 
+            "artist": "Justin Bieber", 
+            "year": "2010", 
+            "title": "Latin Girl"
+        }, 
+        {
+            "album": "Bravo Hits Vol. 93", 
+            "genre": "pop", 
+            "artist": "Justin Bieber", 
+            "year": "2016", 
+            "title": "Love Yourself"
+        }, 
+        {
+            "album": "My Worlds Acoustic", 
+            "genre": "pop", 
+            "artist": "Justin Bieber", 
+            "year": "2010", 
+            "title": "Pray"
+        }, 
+        {
+            "album": "Purpose", 
+            "genre": "pop", 
+            "artist": "Justin Bieber", 
+            "year": "2015", 
+            "title": "Trust"
+        }, 
+        {
+            "album": "Believe", 
+            "genre": "pop", 
+            "artist": "Justin Bieber;Ludacris", 
+            "year": "2012", 
+            "title": "All Around the World"
+        }, 
+        {
+            "album": "Baby", 
+            "genre": "pop", 
+            "artist": "Justin Bieber;Ludacris", 
+            "year": "2010", 
+            "title": "Baby"
+        }, 
+        {
+            "album": "Believe", 
+            "genre": "pop", 
+            "artist": "Justin Bieber;Nicki Minaj", 
+            "year": "2012", 
+            "title": "Beauty and a Beat"
+        }, 
+        {
+            "album": "Strong", 
+            "genre": "pop", 
+            "artist": "Justin Bieber;Selena Gomez", 
+            "year": "2015", 
+            "title": "Strong"
+        }, 
+        {
+            "album": "The Fame Monster", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga;Beyonce", 
+            "year": "2009", 
+            "title": "Telephone "
+        }, 
+        {
+            "album": "The Fame Monster", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2009", 
+            "title": "Alejandro"
+        }, 
+        {
+            "album": "None", 
+            "genre": "None", 
+            "artist": "Various Artists", 
+            "year": "None", 
+            "title": "Bad Romance"
+        }, 
+        {
+            "album": "The Fame Monster", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2009", 
+            "title": "Bad Romance"
+        }, 
+        {
+            "album": "The Fame", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2008", 
+            "title": "Boys Boys Boys"
+        }, 
+        {
+            "album": "The Fame", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2008", 
+            "title": "Paparazzi"
+        }, 
+        {
+            "album": "The Fame", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2008", 
+            "title": "Paper Gangsta"
+        }, 
+        {
+            "album": "The Fame", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2008", 
+            "title": "Poker Face"
+        }, 
+        {
+            "album": "Now Thats What I Call Music! 97", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2017", 
+            "title": "The Cure"
+        }, 
+        {
+            "album": "2012 Grammy Nominees", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga", 
+            "year": "2012", 
+            "title": "You and I"
+        }, 
+        {
+            "album": "The Fame", 
+            "genre": "electronic-dance", 
+            "artist": "Lady Gaga;Colby O'Donis", 
+            "year": "2008", 
+            "title": "Just Dance"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2012", 
+            "title": "Daylight"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2012", 
+            "title": "Love Somebody"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2012", 
+            "title": "Lucky Strike"
+        }, 
+        {
+            "album": "Misery", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2010", 
+            "title": "Misery"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2012", 
+            "title": "One More Night"
+        }, 
+        {
+            "album": "Now That's What I Call Fitness", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2016", 
+            "title": "Sugar"
+        }, 
+        {
+            "album": "This Summer's Gonna Hurt Like a Motherfucker", 
+            "genre": "blue", 
+            "artist": "Maroon 5", 
+            "year": "2014", 
+            "title": "This Summer's Gonna Hurt Like a Motherfucker"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2012", 
+            "title": "Tickets"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5", 
+            "year": "2012", 
+            "title": "Wipe Your Eyes"
+        }, 
+        {
+            "album": "Overexposed", 
+            "genre": "poprock", 
+            "artist": "Maroon 5;Wiz Khalifa", 
+            "year": "2012", 
+            "title": "Payphone "
+        }, 
+        {
+            "album": "Bad", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "1987", 
+            "title": "Bad"
+        }, 
+        {
+            "album": "This Is It", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "2009", 
+            "title": "Beat It"
+        }, 
+        {
+            "album": "This Is It", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "2009", 
+            "title": "Billie Jean"
+        }, 
+        {
+            "album": "This Is It", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "2009", 
+            "title": "Black Or White"
+        }, 
+        {
+            "album": "Xscape", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "2014", 
+            "title": "Love Never Felt So Good"
+        }, 
+        {
+            "album": "This Is It", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "2009", 
+            "title": "Smooth Criminal"
+        }, 
+        {
+            "album": "You Are Not Alone", 
+            "genre": "pop", 
+            "artist": "Michael Jackson", 
+            "year": "1995", 
+            "title": "You Are Not Alone (Radio Edit)"
+        }, 
+        {
+            "album": "Hold My Hand", 
+            "genre": "pop", 
+            "artist": "Michael Jackson;Akon", 
+            "year": "1994", 
+            "title": "Hold My Hand"
+        }, 
+        {
+            "album": "Greatest Hits... So Far!!!", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2010", 
+            "title": "Fuckin' Perfect"
+        }, 
+        {
+            "album": "Missundaztood", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2001", 
+            "title": "Get the Party Started"
+        }, 
+        {
+            "album": "Just The Hits 2011", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2011", 
+            "title": "Raise Your Glass "
+        }, 
+        {
+            "album": "Greatest Hits... So Far!!!", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2010", 
+            "title": "Raise Your Glass"
+        }, 
+        {
+            "album": "Now That's What I Call Music! 71", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2008", 
+            "title": "So What"
+        }, 
+        {
+            "album": "Sober", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2008", 
+            "title": "Sober"
+        }, 
+        {
+            "album": "Try", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2012", 
+            "title": "Try"
+        }, 
+        {
+            "album": "Greatest Hits... So Far!!!", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2010", 
+            "title": "Whataya Want From Me"
+        }, 
+        {
+            "album": "I'm Not Dead", 
+            "genre": "pop-rock", 
+            "artist": "P!nk", 
+            "year": "2006", 
+            "title": "Who Knew"
+        }, 
+        {
+            "album": "Just Great Songs 2014", 
+            "genre": "pop-rock", 
+            "artist": "Pink;Nate Ruess", 
+            "year": "2014", 
+            "title": "Just Give Me a Reason"
+        }, 
+        {
+            "album": "A Symphony Of British Music: Music For The Closing Ceremony Of The London 2012 Olympic Games", 
+            "genre": "pop-rock", 
+            "artist": "Queen;Jessie J", 
+            "year": "2012", 
+            "title": "We Will Rock You"
+        }, 
+        {
+            "album": "Hate That I Love You", 
+            "genre": "rnb", 
+            "artist": "Rihanna", 
+            "year": "2008", 
+            "title": "Hate That I Love You"
+        }, 
+        {
+            "album": "Loud", 
+            "genre": "rnb", 
+            "artist": "Rihanna", 
+            "year": "2010", 
+            "title": "S&M"
+        }, 
+        {
+            "album": "Loud", 
+            "genre": "rnb", 
+            "artist": "Rihanna", 
+            "year": "2010", 
+            "title": "Skin"
+        }, 
+        {
+            "album": "Towards the Sun (From The \"Home\" Soundtrack)", 
+            "genre": "rnb", 
+            "artist": "Rihanna", 
+            "year": "2015", 
+            "title": "Towards the Sun"
+        }, 
+        {
+            "album": "A Girl Like Me", 
+            "genre": "rnb", 
+            "artist": "Rihanna", 
+            "year": "2006", 
+            "title": "Unfaithful"
+        }, 
+        {
+            "album": "Loud", 
+            "genre": "rnb", 
+            "artist": "Rihanna;Drake", 
+            "year": "2010", 
+            "title": "What's My Name?"
+        }, 
+        {
+            "album": "Work", 
+            "genre": "rnb", 
+            "artist": "Rihanna;Drake", 
+            "year": "2016", 
+            "title": "Work"
+        }, 
+        {
+            "album": "Loud", 
+            "genre": "rnb", 
+            "artist": "Rihanna;Eminem", 
+            "year": "2010", 
+            "title": "Love the Way You Lie (Part II)"
+        }, 
+        {
+            "album": "FourFiveSeconds", 
+            "genre": "rnb", 
+            "artist": "Rihanna;Kanye West;Paul McCartney", 
+            "year": "2015", 
+            "title": "FourFiveSeconds"
+        }, 
+        {
+            "album": "A Girl Like Me", 
+            "genre": "rnb", 
+            "artist": "Rihanna;Sean Paul", 
+            "year": "2006", 
+            "title": "Break It Off"
+        }, 
+        {
+            "album": "Blank Space", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2014", 
+            "title": "Blank Space"
+        }, 
+        {
+            "album": "Red", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2012", 
+            "title": "I Knew You Were Trouble"
+        }, 
+        {
+            "album": "Fearless", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2008", 
+            "title": "Love Story"
+        }, 
+        {
+            "album": "Red", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2012", 
+            "title": "Red"
+        }, 
+        {
+            "album": "1989", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2014", 
+            "title": "Shake It Off"
+        }, 
+        {
+            "album": "Speak Now", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2010", 
+            "title": "Sparks Fly"
+        }, 
+        {
+            "album": "Red", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2012", 
+            "title": "We Are Never Ever Getting Back Together"
+        }, 
+        {
+            "album": "Welcome To New York", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2014", 
+            "title": "Welcome To New York"
+        }, 
+        {
+            "album": "Fearless", 
+            "genre": "country", 
+            "artist": "Taylor Swift", 
+            "year": "2008", 
+            "title": "You Belong With Me"
+        }, 
+        {
+            "album": "Safe & Sound (From \"The Hunger Games\" Soundtrack)", 
+            "genre": "country", 
+            "artist": "Taylor Swift;The Civil Wars", 
+            "year": "2013", 
+            "title": "Safe And Sound"
+        }
+    ]
+}

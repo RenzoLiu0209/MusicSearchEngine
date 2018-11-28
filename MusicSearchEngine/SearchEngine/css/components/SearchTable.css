@@ -1,0 +1,82 @@
+.SearchTable table, .SearchTable th, .SearchTable td{
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.SearchTable table{
+    width: 95vw;
+}
+
+.album{
+    width: 42vw;
+}
+.genre{
+    width: 10vw;
+}
+
+.artist{
+    width: 19vw;
+}
+
+.year{
+    width: 5vw;
+}
+
+.title{
+    width: 19vw;
+}
+
+.inputalbum{
+    background: #f0eeee;
+    width: 40vw;
+}
+.inputgenre{
+    background: #f0eeee;
+    width: 8vw;
+}
+
+.inputartist{
+    background: #f0eeee;
+    width: 17vw;
+}
+
+.inputyear{
+    background: #f0eeee;
+    width: 3vw;
+}
+
+.inputtitle{
+    background: #f0eeee;
+    width: 17vw;
+}
+
+.SearchButton{
+    
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    background-color: #c9c4c4; /* Green */
+    border: none;
+    color: black;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+
+.SearchButton:hover {
+    background-color: rgb(250, 195, 195); /* Green */
+    color: white;
+}
+
+.JsonButton{
+
+    position: relative;
+    left:70%;
+}
+
+.CSVButton{
+
+    position: relative;
+    left:71%;
+}
